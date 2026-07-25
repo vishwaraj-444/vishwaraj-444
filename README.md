@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi 👋, I'm Vishwaraj Surthi, a Full Stack Developer with 5+ years of experience building scalable enterprise applications across Healthcare and Banking domains. I enjoy designing cloud-native systems, backend services, distributed architectures, and modern web applications that solve real business problems.<br><br>My expertise spans React, Next.js, Node.js, Python, ASP.NET Core, cloud platforms, distributed systems, and AI-powered applications using Azure OpenAI and Retrieval-Augmented Generation (RAG).
+
+Hi 👋, I'm Vishwaraj Surthi, a Full Stack Developer with 5+ years of experience building scalable enterprise applications across Healthcare and Banking domains.<br> React, Next.js, Node.js, Python, ASP.NET Core, cloud platforms, distributed systems, and AI-powered applications using Azure OpenAI and Retrieval-Augmented Generation (RAG).
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishwaraj-surthi-032140198/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwarajsurthi@gmail.com) 
 
